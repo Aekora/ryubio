@@ -61,7 +61,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 document.addEventListener("DOMContentLoaded", function () {
     const elements = document.querySelectorAll('.typewriter');
-    const texts = ["Owner of VisionCheats.GG", "#1 Cheat Provider"];
+    const texts = ["Owner of VisionCheats.vip", "#1 Cheat Provider"];
     const typingSpeed = 100;
     const pauseDuration = 1000;
     let currentIndex = 0;
